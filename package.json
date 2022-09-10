@@ -1,7 +1,7 @@
 {
   "name": "game-web3wallet",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "index.html",
   "homepage": "https://niknikolaou.github.io/game-web3wallet",
   "scripts": {
